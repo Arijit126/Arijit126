@@ -1,4 +1,4 @@
-![logo](https://github.com/Arijit126/Arijit126/blob/main/152928235-front-end-development-minimal-infographic-web-banner-vector-front-end-it-sphere-html-and-css-code.jpg)
+![logo](https://c0.wallpaperflare.com/preview/383/983/589/web-design-developer-code-front-end-design.jpg)
 <h1 align="center">Hi 👋, I'm Arijit Chatterjee</h1>
 <h3 align="center">Want be an web developer /</h3>
 
