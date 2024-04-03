@@ -1,6 +1,6 @@
 ![logo](https://c0.wallpaperflare.com/preview/383/983/589/web-design-developer-code-front-end-design.jpg)
 <h1 align="center">Hi 👋, I'm Arijit Chatterjee</h1>
-<h3 align="center">Want be an web developer /</h3>
+<h3 align="center">Want be an FUll Stack web developer /</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
